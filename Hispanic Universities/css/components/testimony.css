@@ -1,0 +1,27 @@
+.testimonies{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.testimony{
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 6px;
+	margin: 20px 0px;
+}
+
+.testimony img{
+	width: 100px;
+	border-radius: 6px;
+}
+
+.testimony h3{
+	flex-grow: 1;
+	padding-left: 10px;
+	padding-right: 40px;
+	font-size: 15px;
+	font-family:'Tillana', cursive;
+}

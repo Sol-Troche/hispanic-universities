@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald");
+@import url("https://fonts.googleapis.com/css2?family=Tillana&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/ending.css");
+@import url("components/testimony.css");
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bolder;
+	margin: 0px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap");
+
+h1, h2, h3{
+	font-family:'Oswald', sans-serif;
+}
+
+
+
+a{
+	text-decoration: none;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Tillana&display=swap");
+
